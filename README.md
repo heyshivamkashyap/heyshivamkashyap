@@ -19,7 +19,7 @@
 
 ## 🛠️ About Me
 
-- 🔭 **Currently working on:** [Lumose-edu](https://lumose-edu.vercel.app) - An educational platform
+- 🔭 **Currently Working On:** **Lumose Edu** — An educational platform [Repo](https://github.com/shivam-ka/lumose-edu)  |  [Live](https://lumose-edu.vercel.app)
 - 🌱 **Currently learning:** TypeScript, Framer Motion, and advanced React patterns
 - 💼 **Open to:** Collaborations and freelance opportunities
 - 📍 **Based in:** India
