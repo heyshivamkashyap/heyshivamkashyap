@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/shivam-kashyap-944b28289">
+  <a href="https://www.linkedin.com/in/heyshivamkashyap">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -71,7 +71,6 @@ Results-driven Full Stack Developer specializing in building scalable, high-perf
 | 💻 Repository | https://github.com/heyshivamkashyap/lumose-edu |
 | 🛠 Tech Stack | Next.js, TypeScript, Tailwind, MongoDB |
 
-
 ---
 
 ## 💼 Highlights
@@ -87,7 +86,7 @@ Results-driven Full Stack Developer specializing in building scalable, high-perf
 - <a href="https://shivampro.vercel.app"><b>Portfolio</b></a>  
 - <a href="mailto:shivamkabusiness@gmail.com"><b>Email</b></a>  
 - <a href="https://github.com/heyshivamkashyap"><b>GitHub</b></a>  
-- <a href="https://linkedin.com/in/shivam-kashyap-944b28289"><b>LinkedIn</b></a>
+- <a href="https://www.linkedin.com/in/heyshivamkashyap"><b>LinkedIn</b></a>
 
 ---
 
